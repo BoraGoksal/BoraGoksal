@@ -1,5 +1,3 @@
-# boragoksal
-
 - 🎓 Student at Brunel University London, Mathematics with Computer Science BSc
 - 📊 Incoming placement student @DESNZ, as a statistical data analyst.
 -
