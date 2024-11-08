@@ -2,5 +2,5 @@
 - 📊 placement student @DESNZ, as a Data analyst.
 - Java,Python,R,SQL,MATLAB
 - 🔭 I’m currently working on a forecasting project
-- 🌱 Currently learning PowerBI, SQL, Python Dash Plotly 
+- 🌱 Currently learning scikit-learn
 - 😁 I enjoy: playing football and basketball, reading, lifting weights
