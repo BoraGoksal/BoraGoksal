@@ -1,6 +1,6 @@
 - 🎓 Student at Brunel University London, Mathematics with Computer Science BSc
 - 📊 placement student @DESNZ, as a Data analyst.
 - Java,Python,R,SQL,MATLAB
-- 🔭 I’m currently working on a forecasting project
-- 🌱 Currently learning scikit-learn
+- 🔭 I’m currently working on a financial analysis project, aspiring to be a quantitative analyst.
+- 🌱interested in machine learning. Learning scikit-learn.
 - 😁 I enjoy: playing football and basketball, reading, lifting weights
