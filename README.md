@@ -1,4 +1,4 @@
-##My name is Bora 👋
+## My name is Bora 👋
 
 - 🎓 Brunel University London, Mathematics with Computer Science BSc 
 - Data Analytics Engineer @ DESNZ
