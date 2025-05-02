@@ -2,7 +2,7 @@
 
 🎓 **Mathematics with Computer Science BSc** — *Brunel University London*  
 🔍 **Data Analytics Engineer** @ *Department for Energy Security and Net Zero (DESNZ)*  
-🎯 Aspiring **Data Engineer** | Passionate about **Machine Learning**, **Operational Research**, and scalable data solutions  
+🎯 Aspiring **Data Engineer** | Passionate about **Python development**, **Machine Learning**, **Operational Research**, and scalable data solutions  
 
 ---
 
