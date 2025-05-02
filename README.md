@@ -30,9 +30,9 @@
 
 ### ⚽ About Me
 When I’m not coding or crunching data:
-- I’m swimming, playing football, reading sci-fi & economics, or lifting weights 🏋️
+- I’m swimming, playing basketball, reading or lifting weights 🏋️
 
 ---
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/boragoksal)
