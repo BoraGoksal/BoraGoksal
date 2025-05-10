@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Bora Goksal
 
 🎓 **Mathematics with Computer Science BSc** — *Brunel University London*  
-🔍 **Data Analytics Engineer** @ *Department for Energy Security and Net Zero (DESNZ)*  
-🎯 Aspiring **Data Engineer** | Passionate about **Python development**, **Machine Learning**, **Operational Research**, and scalable data solutions  
+🔍 **Data Analytics Placement** @ *Department for Energy Security and Net Zero (DESNZ)*  
+🎯 Aspiring **Data Scientist/Engineer** | Passionate about **Python development**, **Machine Learning**, **Operational Research**, and scalable data solutions  
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 📚 Learning Goals
 - Deepen understanding of **data engineering pipelines** (ETL, orchestration)
-- Advance ML skills with **scikit-learn** and **XGBoost**
+- Advance ML skills with **scikit-learn** and **PyTorch**
 - Improve project deployment with **Docker** and **Cloud platforms**
 
 ---
