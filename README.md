@@ -15,12 +15,6 @@
 
 ---
 
-### 📈 Current Projects
-- Building a **data analysis pipeline** to support energy transition decisions
-- Exploring **machine learning with scikit-learn** and optimization with **OR techniques**
-
----
-
 ### 📚 Learning Goals
 - Deepen understanding of **data engineering pipelines** (ETL, orchestration)
 - Advance ML skills with **scikit-learn** and **PyTorch**
